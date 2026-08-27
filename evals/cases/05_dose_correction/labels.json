@@ -1,0 +1,13 @@
+{
+  "id": "05_dose_correction",
+  "title": "Spoken dose correction: stay metformin 500, not 1000",
+  "tags": ["meds", "correction", "safety"],
+  "required_sections": ["plan"],
+  "grounding": { "all_note_items_grounded": true },
+  "must_include": [
+    { "id": "metformin_500", "section": "plan", "any": ["metformin"], "pattern": "(500|five hundred)", "uncertain": false }
+  ],
+  "must_not": [
+    { "id": "no_1000_plan", "section": "plan", "pattern": "1000|one thousand" }
+  ]
+}

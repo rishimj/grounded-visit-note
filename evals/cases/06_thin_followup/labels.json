@@ -1,0 +1,12 @@
+{
+  "id": "06_thin_followup",
+  "title": "Refill-only visit: no exam, no spoken assessment",
+  "tags": ["thin", "no-pad-soap", "refill"],
+  "required_sections": ["plan"],
+  "must_not_section": ["assessment", "objective"],
+  "grounding": { "all_note_items_grounded": true },
+  "must_include": [
+    { "id": "atorvastatin_40", "section": "plan", "any": ["atorvastatin"], "pattern": "(40|forty)" },
+    { "id": "follow_up_6mo", "section": "plan", "pattern": "(six months|6 months)" }
+  ]
+}

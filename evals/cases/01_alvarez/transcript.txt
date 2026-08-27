@@ -1,0 +1,59 @@
+1  [00:00:04] CLINICIAN: Morning, Ms. Alvarez. Good to see you again. How have you been since March?
+2  [00:00:11] PATIENT: Honestly, not great. That's kind of why I'm here.
+3  [00:00:16] CLINICIAN: Tell me what's going on.
+4  [00:00:19] PATIENT: I've been getting these headaches. Started maybe six weeks ago? Maybe two months. They're mostly in the morning.
+5  [00:00:31] CLINICIAN: Every morning?
+6  [00:00:33] PATIENT: Most mornings. Four or five days a week I'd say.
+7  [00:00:39] CLINICIAN: How bad, one to ten?
+8  [00:00:42] PATIENT: A six usually. There was one Saturday it was more like an eight and I had to lie down for a couple hours.
+9  [00:00:51] CLINICIAN: Any vision changes with them? Nausea? Anything like that?
+10 [00:00:56] PATIENT: No vision stuff. A little queasy sometimes but I don't throw up.
+11 [00:01:03] CLINICIAN: Okay. And you're still on the lisinopril?
+12 [00:01:07] PATIENT: That's the thing. I stopped that one. Maybe three weeks ago.
+13 [00:01:13] CLINICIAN: You stopped it? Why?
+14 [00:01:15] PATIENT: The cough. It was constant, I couldn't sleep. My sister said hers did the same thing and her doctor switched her to something else.
+15 [00:01:26] CLINICIAN: I wish you'd called me, we could have handled that. But I understand. Anything else you're taking?
+16 [00:01:33] PATIENT: The metformin, still twice a day. And I take a fish oil and a vitamin D my daughter got me.
+17 [00:01:42] CLINICIAN: What dose is the metformin, do you remember?
+18 [00:01:45] PATIENT: Um. The five hundred I think. The little white ones.
+19 [00:01:51] CLINICIAN: We'll check the chart. Let me get a pressure on you.
+20 [00:02:14] CLINICIAN: Okay, that's one fifty-eight over ninety-four. Let me do the other arm.
+21 [00:02:38] CLINICIAN: One fifty-four over ninety-two on the left. That's high, Ms. Alvarez.
+22 [00:02:45] PATIENT: Is that the headaches?
+23 [00:02:47] CLINICIAN: It could well be. Morning headaches with pressure like that, they often go together. Heart sounds normal, no murmur. Lungs are clear. Let me look at your ankles. No swelling, that's good.
+24 [00:03:12] PATIENT: My mother had the blood pressure too. She had a stroke at sixty-eight.
+25 [00:03:19] CLINICIAN: I remember. That's part of why I want to get on top of this.
+26 [00:03:25] PATIENT: My blood sugar's been okay though. I've been checking. Mostly one twenties in the morning. One thirty a few times.
+27 [00:03:36] CLINICIAN: That's reasonable. We'll get an A1c today anyway since we're drawing.
+28 [00:03:43] PATIENT: You're drawing blood today?
+29 [00:03:45] CLINICIAN: Yes, A1c and a basic metabolic panel, I want to see your kidney function before I put you on something new. Lab's downstairs, second floor.
+30 [00:03:57] PATIENT: Okay.
+31 [00:04:00] CLINICIAN: So here's what I'm thinking. The lisinopril gave you the cough, that's a known thing, it happens in maybe one in ten people. We're not going back to it. I want to start you on amlodipine instead. Five milligrams, once a day, in the morning.
+32 [00:04:19] PATIENT: Will that one make me cough?
+33 [00:04:21] CLINICIAN: Different family of drug, so no. Some people get a bit of ankle swelling on it. If your ankles puff up, call me, don't just stop it.
+34 [00:04:33] PATIENT: Okay. Fair.
+35 [00:04:36] CLINICIAN: Actually, hold on. Let me look at that creatinine from March first. If the kidney numbers came back off I might want to go a different direction. Let's say amlodipine five for now and I'll call you if the labs change my mind.
+36 [00:04:54] PATIENT: So should I start it tonight or wait for you to call?
+37 [00:04:58] CLINICIAN: Start it. If I need to change it I'll reach you before the weekend.
+38 [00:05:05] PATIENT: And the headaches in the meantime?
+39 [00:05:08] CLINICIAN: Tylenol is fine, up to three grams a day. Avoid the ibuprofen, with your kidneys I'd rather not.
+40 [00:05:18] PATIENT: I've been taking Advil actually. Most days.
+41 [00:05:22] CLINICIAN: How much?
+42 [00:05:24] PATIENT: Two in the morning, sometimes two more at night.
+43 [00:05:29] CLINICIAN: Let's stop that. That may be part of why the pressure's running high, and it's hard on the kidneys. Tylenol only from here.
+44 [00:05:39] PATIENT: I didn't know that.
+45 [00:05:41] CLINICIAN: Most people don't. Now, the other thing. You mentioned last time you were having trouble sleeping. Is that still going on?
+46 [00:05:51] PATIENT: A bit. Some of that was the cough. It's better since I stopped the pill.
+47 [00:05:58] CLINICIAN: Let's leave it for now and see where you are next visit.
+48 [00:06:04] PATIENT: Oh, and I meant to ask. My knee's been bothering me. The right one. Going up stairs mostly.
+49 [00:06:13] CLINICIAN: How long?
+50 [00:06:15] PATIENT: Months. It comes and goes.
+51 [00:06:19] CLINICIAN: I don't want to short-change that but we're at time and I want to focus on the pressure today. Put it on the list for next visit and if it gets worse before then, call.
+52 [00:06:32] PATIENT: Okay.
+53 [00:06:34] CLINICIAN: So: amlodipine five daily starting tonight, stop the Advil, Tylenol as needed, labs downstairs today, and I want to see you back in four weeks with a pressure log. Can you check it at home?
+54 [00:06:51] PATIENT: My daughter has one of those cuffs.
+55 [00:06:54] CLINICIAN: Perfect. Morning and evening, write it down, bring the list.
+56 [00:07:01] PATIENT: Four weeks. Got it.
+57 [00:07:04] CLINICIAN: And someone from the office will call about scheduling. Anything else before you go?
+58 [00:07:11] PATIENT: No, I think that's it. Thank you.
+59 [00:07:14] CLINICIAN: Take care, Ms. Alvarez. Second floor for the lab.

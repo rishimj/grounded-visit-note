@@ -1,0 +1,17 @@
+{
+  "id": "04_no_invented_dx",
+  "title": "Patient self-dx pneumonia; clinician viral URI, no CXR or abx",
+  "tags": ["assessment-trap", "pertinent-negative"],
+  "required_sections": ["assessment", "plan"],
+  "grounding": { "all_note_items_grounded": true },
+  "must_include": [
+    { "id": "viral_uri", "section": "assessment", "any": ["viral"] },
+    { "id": "supportive", "section": "plan", "any": ["rest"] },
+    { "id": "return_precautions", "section": "plan", "any": ["short"] }
+  ],
+  "must_not": [
+    { "id": "no_pneumonia_impression", "section": "assessment", "pattern": "pneumonia" },
+    { "id": "no_antibiotics", "section": "plan", "pattern": "antibiotic|azithromycin|amoxicillin|doxycycline" },
+    { "id": "no_cxr_order", "section": "plan", "pattern": "(chest x-?ray|\\bcxr\\b|order.{0,20}x-?ray)" }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "section": "subjective",
+    "feature_type": "pertinent_negative",
+    "text": "No chest pain or muscle aches.",
+    "quotes": [{ "text": "No chest pain, no muscle aches." }],
+    "reason": "patient denied both",
+    "uncertain": false,
+    "kind": "finding",
+    "grounded": false
+  },
+  {
+    "section": "plan",
+    "feature_type": "med_change",
+    "text": "Refill atorvastatin 40 mg nightly.",
+    "quotes": [{ "text": "atorvastatin forty milligrams" }],
+    "reason": "same dose refill",
+    "uncertain": false,
+    "kind": "medication",
+    "grounded": false
+  },
+  {
+    "section": "plan",
+    "feature_type": "follow_up",
+    "text": "Follow up in six months unless something comes up.",
+    "quotes": [{ "text": "See you in six months" }],
+    "reason": "stated interval",
+    "uncertain": false,
+    "kind": "plan",
+    "grounded": false
+  },
+  {
+    "section": "assessment",
+    "feature_type": "impression",
+    "text": "Hyperlipidemia, poorly controlled.",
+    "quotes": [{ "text": "this quote is not in the file" }],
+    "reason": "invented",
+    "uncertain": false,
+    "kind": "finding",
+    "grounded": false
+  }
+]

@@ -1,0 +1,14 @@
+1  [00:00:03] CLINICIAN: Good morning, Mr. Patel. We're here to check your blood pressure meds.
+2  [00:00:09] PATIENT: Yeah. The lisinopril. I think it's ten milligrams.
+3  [00:00:14] CLINICIAN: That's right. Home readings have been running high, one fifties. I was going to increase the lisinopril to twenty milligrams daily.
+4  [00:00:24] PATIENT: Before you do that — I've had this dry cough for a month. Night and day.
+5  [00:00:31] CLINICIAN: How long after you started the lisinopril?
+6  [00:00:34] PATIENT: It started a couple weeks after. I thought it was a cold.
+7  [00:00:39] CLINICIAN: That's likely the ACE inhibitor. We're not increasing it, and we're not staying on it.
+8  [00:00:46] PATIENT: So what then?
+9  [00:00:48] CLINICIAN: Stop the lisinopril. Start losartan fifty milligrams once a day instead. Different class, cough should settle.
+10 [00:00:58] PATIENT: Fifty, not twenty.
+11 [00:01:01] CLINICIAN: Correct. Losartan fifty daily. The twenty milligram lisinopril bump is off the table.
+12 [00:01:09] PATIENT: Okay. Anything else?
+13 [00:01:12] CLINICIAN: Call if the cough isn't better in two weeks, or if you get dizzy. Follow up in a month with a pressure log.
+14 [00:01:21] PATIENT: Will do.

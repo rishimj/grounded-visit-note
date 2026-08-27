@@ -1,0 +1,19 @@
+{
+  "id": "03_plan_flip",
+  "title": "Latest resolved plan: abandon lisinopril 20, start losartan 50",
+  "tags": ["meds", "contradiction", "latest-plan"],
+  "required_sections": ["plan"],
+  "grounding": { "all_note_items_grounded": true },
+  "must_include": [
+    { "id": "losartan_50", "section": "plan", "any": ["losartan"], "pattern": "(50|fifty)" },
+    { "id": "stop_lisinopril", "section": "plan", "any": ["lisinopril"] },
+    { "id": "follow_up", "section": "plan", "any": ["month"] }
+  ],
+  "must_not": [
+    {
+      "id": "no_increase_20",
+      "section": "plan",
+      "pattern": "(increase.{0,40}lisinopril|lisinopril.{0,40}(20|twenty)|20\\s*mg.{0,20}lisinopril|lisinopril.{0,20}20)"
+    }
+  ]
+}

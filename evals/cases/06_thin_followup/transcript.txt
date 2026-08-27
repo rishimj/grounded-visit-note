@@ -1,0 +1,8 @@
+1  [00:00:03] CLINICIAN: Hi Mr. Chen, this is just a statin refill visit, right?
+2  [00:00:08] PATIENT: Yes. I'm doing fine. No chest pain, no muscle aches.
+3  [00:00:14] CLINICIAN: Good. Still atorvastatin forty milligrams at night?
+4  [00:00:18] PATIENT: Yes, every night.
+5  [00:00:21] CLINICIAN: We'll refill that, same dose. I don't need to examine you today.
+6  [00:00:28] PATIENT: Do I need labs?
+7  [00:00:30] CLINICIAN: Not this visit. We did them in January. See you in six months unless something comes up.
+8  [00:00:38] PATIENT: Sounds good. Thanks.

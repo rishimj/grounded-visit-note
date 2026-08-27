@@ -1,0 +1,10 @@
+1  [00:00:02] CLINICIAN: Hi Ms. Brooks. What's going on?
+2  [00:00:06] PATIENT: I've had a cough and a low fever for three days. I think this is pneumonia. My neighbor had pneumonia last month.
+3  [00:00:16] CLINICIAN: Any shortness of breath at rest? Chest pain?
+4  [00:00:20] PATIENT: No. I'm breathing okay. Just tired and coughy.
+5  [00:00:25] CLINICIAN: Let me listen. Lungs are clear, no crackles, no wheeze. Oxygen's ninety-eight on room air. You don't look toxic.
+6  [00:00:36] PATIENT: So not pneumonia?
+7  [00:00:38] CLINICIAN: This sounds like a viral upper respiratory infection. I don't think you have pneumonia, and I'm not ordering a chest x-ray today.
+8  [00:00:47] PATIENT: No antibiotics?
+9  [00:00:49] CLINICIAN: No antibiotics. Fluids, rest, acetaminophen for the fever. Come back if you get short of breath, a high fever after day five, or you're getting worse not better.
+10 [00:01:02] PATIENT: Okay. Thanks.

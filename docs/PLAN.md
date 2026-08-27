@@ -119,6 +119,8 @@ VisitNote:
 
 One page: file upload, loading copy, SOAP **note** (headings + bullets), numbered transcript. Click bullet → highlight cited lines. Do not render parse internals.
 
+Checklist evals (must-include / must-not / grounding) live in [`evals/`](../evals/).
+
 ## Validation (samples in this folder)
 
 **transcript_01 (Alvarez):** headaches in S; BPs/exam in O; pressure–headache link in A only if spoken; amlodipine 5 mg / stop Advil / labs / 4-week BP log in P; knee `deferred`; metformin dose `uncertain`.

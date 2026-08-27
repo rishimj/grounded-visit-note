@@ -1,0 +1,31 @@
+{
+  "id": "01_alvarez",
+  "title": "Alvarez: headaches, BP, amlodipine, deferred knee",
+  "tags": ["meds", "deferred", "uncertain_dose", "assessment"],
+  "required_sections": ["subjective", "objective", "assessment", "plan"],
+  "grounding": { "all_note_items_grounded": true },
+  "must_include": [
+    { "id": "headaches", "section": "subjective", "any": ["headache"] },
+    { "id": "bp_vitals", "section": "objective", "pattern": "(158|one fifty-?eight)" },
+    { "id": "exam", "section": "objective", "any": ["clear"] },
+    { "id": "pressure_headache", "section": "assessment", "any": ["headache"] },
+    { "id": "amlodipine_start", "section": "plan", "any": ["amlodipine"], "pattern": "(5|five)" },
+    { "id": "stop_advil", "section": "plan", "any": ["advil"] },
+    { "id": "labs", "section": "plan", "any": ["a1c"] },
+    { "id": "bp_log", "section": "plan", "pattern": "(4|four).{0,24}week" },
+    { "id": "knee_deferred", "section": "plan", "feature_type": "deferred", "any": ["knee"] },
+    { "id": "metformin_uncertain", "any": ["metformin"], "uncertain": true }
+  ],
+  "must_not": [
+    {
+      "id": "restart_lisinopril",
+      "section": "plan",
+      "pattern": "(resume|restart|start|continue).{0,40}lisinopril|lisinopril.{0,40}(resume|restart|start|continue|daily)"
+    },
+    {
+      "id": "sleep_treated",
+      "section": "plan",
+      "pattern": "(sleep study|trazodone|zolpidem|start.{0,20}sleep)"
+    }
+  ]
+}

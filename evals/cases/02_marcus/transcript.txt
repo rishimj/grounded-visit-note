@@ -1,0 +1,20 @@
+1  [00:00:02] CLINICIAN: Hi Marcus, come on in. This is a follow-up on the ankle, right?
+2  [00:00:08] PATIENT: Yeah. Two weeks out from the sprain.
+3  [00:00:12] CLINICIAN: How's it feeling?
+4  [00:00:14] PATIENT: Way better. I'm walking on it normal. Still stiff first thing.
+5  [00:00:21] CLINICIAN: Any pain when you push off?
+6  [00:00:24] PATIENT: A little. Like a two.
+7  [00:00:27] CLINICIAN: Let me have a look. Swelling's basically gone. Range of motion's full. No tenderness over the malleolus. That's a good exam.
+8  [00:00:41] PATIENT: So can I run?
+9  [00:00:43] CLINICIAN: Not yet. Give it another two weeks, then start with a walk-run, five minutes running, five walking, build from there.
+10 [00:00:54] PATIENT: My race is April eleventh.
+11 [00:00:57] CLINICIAN: Half or full?
+12 [00:00:59] PATIENT: Half.
+13 [00:01:01] CLINICIAN: That's what, seven weeks? You'll probably make it. I'd rather you show up undertrained than reinjured in week three.
+14 [00:01:12] PATIENT: Understood. Do I need the brace still?
+15 [00:01:16] CLINICIAN: For running, yes, for the first few weeks. Around the house, no.
+16 [00:01:23] PATIENT: What about the physical therapy? I've been doing the exercises.
+17 [00:01:29] CLINICIAN: Keep going. The balance work especially, that's what prevents the next one. Single leg stands, three sets of thirty seconds, daily.
+18 [00:01:41] PATIENT: I've been doing them on the couch cushion like she showed me.
+19 [00:01:46] CLINICIAN: That's the right idea. No need to see me again unless something changes. If the pain comes back or it swells up after a run, come in.
+20 [00:01:58] PATIENT: Will do. Thanks.

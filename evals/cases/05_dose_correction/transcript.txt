@@ -1,0 +1,8 @@
+1  [00:00:04] CLINICIAN: Ms. Nguyen, diabetes follow-up. You're still on metformin?
+2  [00:00:10] PATIENT: Yes. Twice a day with meals.
+3  [00:00:13] CLINICIAN: Let's keep you on metformin one thousand milligrams twice a day. That's a common dose.
+4  [00:00:20] PATIENT: One thousand? The bottle says five hundred.
+5  [00:00:24] CLINICIAN: Hold on, let me look at the chart. You're right. Stay at five hundred milligrams twice a day. Do not take one thousand. I misspoke.
+6  [00:00:34] PATIENT: So five hundred, twice a day, same as now.
+7  [00:00:38] CLINICIAN: Yes. Continue metformin five hundred milligrams twice daily. Home sugars have been okay. Recheck A1c in three months.
+8  [00:00:47] PATIENT: Got it.

@@ -1,0 +1,33 @@
+{
+  "id": "verify_ungrounded",
+  "title": "Ungrounded quotes are not grounded; stitch omits them",
+  "lines": ["Start amlodipine five milligrams.", "Defer the knee."],
+  "features": [
+    {
+      "section": "plan",
+      "feature_type": "med_start",
+      "text": "Start amlodipine 5 mg daily",
+      "quotes": [{ "text": "amlodipine five milligrams" }],
+      "reason": "audit",
+      "kind": "medication",
+      "uncertain": false,
+      "grounded": false
+    },
+    {
+      "section": "plan",
+      "feature_type": "deferred",
+      "text": "Invented deferred item",
+      "quotes": [{ "text": "this quote is not in the file" }],
+      "reason": "audit",
+      "kind": "deferred",
+      "uncertain": false,
+      "grounded": false
+    }
+  ],
+  "expect": {
+    "grounded": [true, false],
+    "note_sections": ["plan"],
+    "note_item_count": 1,
+    "note_item_ids": ["p-1"]
+  }
+}

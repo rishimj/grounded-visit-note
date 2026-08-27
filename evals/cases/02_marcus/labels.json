@@ -1,0 +1,21 @@
+{
+  "id": "02_marcus",
+  "title": "Marcus: ankle follow-up, plan-heavy, no invented workup",
+  "tags": ["plan", "thin-so", "precaution"],
+  "required_sections": ["plan"],
+  "min_sections": 1,
+  "grounding": { "all_note_items_grounded": true },
+  "must_include": [
+    { "id": "no_running_yet", "section": "plan", "any": ["run"] },
+    { "id": "two_weeks", "section": "plan", "pattern": "(two weeks|2 weeks|another two)" },
+    { "id": "brace_running", "section": "plan", "any": ["brace"] },
+    { "id": "pt", "section": "plan", "any": ["balance"] },
+    { "id": "prn_return", "section": "plan", "any": ["pain"] }
+  ],
+  "must_not": [
+    { "id": "no_mri", "pattern": "\\bmri\\b" },
+    { "id": "no_surgery", "pattern": "surg(ery|ical)" },
+    { "id": "no_cleared_race", "pattern": "cleared.{0,30}race|ok to (run the )?(half|race) now" },
+    { "id": "no_full_workup", "pattern": "(x-?ray|orthoped|refer)" }
+  ]
+}
