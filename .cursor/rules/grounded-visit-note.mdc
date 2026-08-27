@@ -1,0 +1,13 @@
+---
+description: Grounded Visit Note global plan — parse vs stitch, grounding, docs location
+alwaysApply: true
+---
+
+# Grounded Visit Note
+
+Read [docs/PLAN.md](docs/PLAN.md) before changing architecture. Brief and transcripts are under `docs/`.
+
+- Parse graph (LangGraph) → `features.json` only. Stitcher (no LLM) → SOAP `note.json`.
+- `verify_quotes` grounds quotes in the file and owns line numbers. `reason` is not evidence.
+- UI shows a SOAP note plus transcript, not parse internals.
+- Implement **backend orchestration first**. Do not commit `.env`.
